@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listonic</string>
+    <string name="welcome_title">Listonic</string>
+    <string name="welcome_subtitle">Your professional and powerful to-do list app.</string>
+    <string name="get_started">Get Started</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="calendar">Calendar</string>
+    <string name="settings">Settings</string>
+</resources>
